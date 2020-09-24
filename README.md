@@ -1,0 +1,2 @@
+# Data-Science-Project-with-Python
+Predict a Model of a bank dataset (06/2019 - 07/2019) This is Data Science-based project. As per bank requirements, all insights of data are displayed. Built a Model of the bank for a loan that the client will subscribe to a term deposit. And efficiency is also calculated how much our model is efficient. skills involved:- Python, Statistics &amp; Probability, and, basics of Machine Learning.
